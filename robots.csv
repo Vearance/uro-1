@@ -1,0 +1,6 @@
+name,hitpoints,damage,defense,crit,speed,ultimate_charge,ultimate_power
+RoboOne,50,30,10,0.1,25,5,3
+RoboTwo,50,25,12,0.05,20,4,3
+RoboThree,50,20,15,0.1,30,6,4
+RoboFour,100,13,18,0.5,12,7,10
+RoboNath,125,20,8,0.08,20,3,2
